@@ -12,7 +12,7 @@ allprojects {
 }
 
 dependencies {
-        implementation 'com.github.kevinvane:Mp4v2MuxerAndroid:1.0.0'
+        implementation 'com.github.kevinvane:libMp4v2MuxerAndroid:1.0.0'
 }
 ```
 
@@ -26,4 +26,4 @@ dependencies {
 
 ### 示例
 
-无
+看 `Native` 函数
