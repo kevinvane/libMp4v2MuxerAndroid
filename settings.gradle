@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Mp4v2MuxerAndroid"
+rootProject.name = "libMp4v2MuxerAndroid"
 include ':mp4v2library'
